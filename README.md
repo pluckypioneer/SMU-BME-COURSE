@@ -2,7 +2,7 @@
 
 ## SMU生物医学工程专业资料分享
 
-![Southern Medical University]([https://github.com/pluckypioneer/SMU-BME-COURSE/blob/main/nfyk-logo.png])[南方医科大学生物医学工程学院](https://portal.smu.edu.cn/swyxgcxy/)
+![Southern Medical University](https://github.com/pluckypioneer/SMU-BME-COURSE/blob/main/nfyk-logo.png)\[南方医科大学生物医学工程学院](https://portal.smu.edu.cn/swyxgcxy/)
 
 这是一个用来储存南方医科大学生物医学工程专业有关课程资料的仓库。如果您觉得本项目有帮助到你的话，麻烦您给一个star！Guidance to courses for SMU BME study.
 
