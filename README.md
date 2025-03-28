@@ -1,6 +1,6 @@
 # SMU-BME-COURSE
 
-## SMU生物医学工程专业资料分享
+## [SMU](https://www.smu.edu.cn/)生物医学工程专业资料分享
 
 ![Southern Medical University](nfyk-logo.png)
 
@@ -8,9 +8,9 @@
 
 ### 介绍Introduction
 
-这是一个用来储存南方医科大学生物医学工程专业有关课程资料的仓库，包含电子书、笔记、课件、推荐课程、学习路径等。如果您觉得本项目有帮助到你的话，**麻烦您给一个star！**
+这是一个用来储存[南方医科大学](https://www.smu.edu.cn/)生物医学工程专业有关课程资料的仓库，包含电子书、笔记、课件、推荐课程、学习路径等。如果您觉得本项目有帮助到你的话，**麻烦您给一个star！**
 
-Guidance to courses for SMU BME study.
+Guidance to courses for [SMU BME](https://portal.smu.edu.cn/swyxgcxy/) study.
 
 ### 声明Declaration
 
