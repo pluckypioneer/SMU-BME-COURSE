@@ -44,6 +44,8 @@ Guidance to courses for SMU BME study.
 
 提取码：3951
 
+[高等数学学习资料](https://github.com/zkjx/math-physics/tree/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6)
+
 ### C语言
 
 ### 机械制图
@@ -70,6 +72,8 @@ python作为一种简单好用的语言，是十分有学习的必要性的，�
 
 提取码:kae3
 
+[线性代数学习资料](https://github.com/zkjx/math-physics/tree/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)
+
 
 ### 电路分析基础
 
@@ -80,6 +84,8 @@ python作为一种简单好用的语言，是十分有学习的必要性的，�
 [大学物理 click here](https://pan.baidu.com/s/1fo-Zlf2GtNXyrd6mSn1ODA?pwd=xq76)
 
 提取码：xq76
+
+[大学物理学习资料](https://github.com/zkjx/math-physics/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86)
 
 ### 
 
