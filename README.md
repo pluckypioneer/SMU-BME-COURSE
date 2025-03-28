@@ -48,6 +48,16 @@ Guidance to courses for SMU BME study.
 
 ### C语言
 
+[C语言课程资料]( https://pan.baidu.com/s/1sOQbFNIZCdZ58T0cbn1HVQ?pwd=jwq2) 提取码: jwq2
+
+- 《C程序设计语言（第二版）》 [百度云链接](https://pan.baidu.com/s/1haNxg0Ett2MvCDc05N0O0g )  提取码：2and 
+
+- 《C Primer Plus 中英版》 [百度云链接](https://pan.baidu.com/s/1O8lJSj7P78NyffnKNG1pbw ) 提取码：2dox 
+
+- 《经典C程序100例》 [百度云链接](https://pan.baidu.com/s/1AVcXE4i_iUJ3bh-QeRJzLA )  提取码：juxk 
+
+- 《C程序设计语言(英文第2版)Prentice Hall.-.The C Programming Language(2nd Edition)》 [百度云链接](https://pan.baidu.com/s/1wE_f5jLlKhPJbkHArocV5g )  提取码：14x6 
+
 ### 机械制图
 
 [机械制图]( https://pan.baidu.com/s/1eu9reZlJSiAMgZaQ_ZBZwg?pwd=cpav )  提取码: cpav
@@ -112,6 +122,11 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 ### 复变函数与积分变换
 
 ## 大二下
+
+## 可能会有用的资源
+
+[CS-BOOK计算机经典书籍 click here🔗](https://github.com/forthespada/CS-Books)
+[清华大学计算机系课程攻略 click here🔗](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 ## 💖 Star History
 
