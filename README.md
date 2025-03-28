@@ -85,9 +85,9 @@ Matlab课程笔记及课件:[MATLAB_LEARNING](https://github.com/pluckypioneer/M
 
 ### 模拟电子技术
 
-[模拟电子技术](https://pan.baidu.com/s/1wRRwrB92QL3AwmdYtZR51g?pwd=sf3w)
+[模拟电子技术 click here🔗](https://pan.baidu.com/s/1wRRwrB92QL3AwmdYtZR51g?pwd=sf3w) 提取码：sf3w
 
-提取码：sf3w
+[模拟电子技术 习题、笔记分享 click here 🔗](https://github.com/ZhibangYue/Fundamentals-of-Analog-Electronic-Techniques)
 
 ### 复变函数与积分变换
 
