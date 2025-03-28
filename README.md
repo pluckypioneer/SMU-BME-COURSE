@@ -58,6 +58,10 @@ python作为一种简单好用的语言，是十分有学习的必要性的，�
 
 ### 面向对象程序设计
 
+[面向对象程序设计](https://pan.baidu.com/s/19QBVI5fyZ-ZvkOFLGjavAw?pwd=p76y)
+
+提取码：p76y
+
 ### 线性代数
 
 [同济版线性代数链接🔗 click here](https://pan.baidu.com/s/1zA7lVFfMkb_M4q0w3D693Q?pwd=kae3)
