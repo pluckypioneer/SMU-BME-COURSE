@@ -60,6 +60,10 @@ python作为一种简单好用的语言，是十分有学习的必要性的，�
 
 [面向对象程序设计](https://pan.baidu.com/s/19QBVI5fyZ-ZvkOFLGjavAw?pwd=p76y)
 
+[GitHub：C++那些事]()
+
+[Github：Awesome C++](https://github.com/fffaraz/awesome-cpp)
+
 提取码：p76y
 
 ### 线性代数
