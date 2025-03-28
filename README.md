@@ -14,7 +14,9 @@ Guidance to courses for SMU BME study.
 
 ### 高等数学
 
-高等数学分为上下两册，分别在大一上下两学期学习，本项目中将两册资料合并储存在同一文件夹中。
+高等数学分为上下两册，分别在大一上下两学期学习，本项目中将两册资料合并储存在同一文件夹中。[高等数学 click here](https://pan.baidu.com/s/1PFGhBupIIyqKDh6yBOiDJg?pwd=3951)
+
+提取码：3951
 
 ### C语言
 
