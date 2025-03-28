@@ -123,6 +123,8 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 ### 复变函数与积分变换
 
+[复变函数与积分变换](https://pan.baidu.com/s/1DyTDQMvLnAniDQj9KiqB6Q?pwd=e33a) 提取码: e33a
+
 ## 大二下
 
 ### 数据结构
