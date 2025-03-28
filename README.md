@@ -93,7 +93,9 @@ python作为一种简单好用的语言，是十分有学习的必要性的，�
 
 ### Matlab
 
-Matlab课程笔记及课件:[MATLAB_LEARNING](https://github.com/pluckypioneer/Matlab_Learning)
+Matlab课程笔记及课件（含进阶学习推荐资料）:
+
+[MATLAB_LEARNING](https://github.com/pluckypioneer/Matlab_Learning)
 
 ### 模拟电子技术
 
