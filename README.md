@@ -30,11 +30,17 @@ Guidance to courses for SMU BME study.
 
 本项目欢迎热心人士一起建设！由于本校存在专业分流，部分课程我也没有学习，因此我收集的资料会有所欠缺，所以如果说您有什么资料分享，欢迎您的加入！
 
+---
+
+# Course Documents 
+
 ## 大一上
 
 ### 高等数学
 
-高等数学分为上下两册，分别在大一上下两学期学习，本项目中将两册资料合并储存在同一文件夹中。[高等数学 click here](https://pan.baidu.com/s/1PFGhBupIIyqKDh6yBOiDJg?pwd=3951)
+高等数学分为上下两册，分别在大一上下两学期学习，本项目中将两册资料合并储存在同一文件夹中。
+
+[高等数学 click here](https://pan.baidu.com/s/1PFGhBupIIyqKDh6yBOiDJg?pwd=3951)
 
 提取码：3951
 
@@ -45,6 +51,7 @@ Guidance to courses for SMU BME study.
 ### Python
 
 python作为一种简单好用的语言，是十分有学习的必要性的，但由于医工专业课程安排，学校连简单的python语法都不教，我强力建议大家在大一的时候就自学python，这里有我整理的一些python学习资料，笔记不完全，但也有一定参考价值。
+
 [click there 链接🔗](https://github.com/pluckypioneer/MY_PYTHON_STUDY_NOTE)
 
 ## 大一下
