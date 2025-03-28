@@ -64,7 +64,7 @@ Guidance to courses for SMU BME study.
 
 [CAD2025下载链接🔗](https://pan.baidu.com/s/1EwsWWrm74sK9kDpS3pabJg?pwd=kijx)   提取码: kijx
 
-推荐使用网站ruancang.net获取最新版CAD、ZWCAD等。
+推荐使用网站`ruancang.net`获取最新版CAD、ZWCAD等。
 
 ### Python
 
@@ -92,6 +92,8 @@ python作为一种简单好用的语言，是十分有学习的必要性的，�
 
 
 ### 电路分析基础
+
+[电路分析基础课程资料]( https://pan.baidu.com/s/1uX-zm4zR9tMGweLvlRQclg?pwd=ysy6) 提取码: ysy6
 
 ### 大学物理
 
@@ -126,6 +128,7 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 ## 可能会有用的资源
 
 [CS-BOOK计算机经典书籍 click here🔗](https://github.com/forthespada/CS-Books)
+
 [清华大学计算机系课程攻略 click here🔗](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 ## 💖 Star History
