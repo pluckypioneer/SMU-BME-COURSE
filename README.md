@@ -6,7 +6,7 @@
 
 [南方医科大学生物医学工程学院](https://portal.smu.edu.cn/swyxgcxy/)
 
-这是一个用来储存南方医科大学生物医学工程专业有关课程资料的仓库。如果您觉得本项目有帮助到你的话，麻烦您给一个star！
+这是一个用来储存南方医科大学生物医学工程专业有关课程资料的仓库，包含电子书、笔记、课件、推荐课程、学习路径等。由于github上传受限，部分资料会以网盘链接形式储存。如果您觉得本项目有帮助到你的话，麻烦您给一个star！
 
 Guidance to courses for SMU BME study.
 
@@ -23,13 +23,17 @@ Guidance to courses for SMU BME study.
 ### Python
 
 python作为一种简单好用的语言，是十分有学习的必要性的，但由于医工专业课程安排，学校连简单的python语法都不教，我强力建议大家在大一的时候就自学python，这里有我整理的一些python学习资料，笔记不完全，但也有一定参考价值。
-[click there 链接](https://github.com/pluckypioneer/MY_PYTHON_STUDY_NOTE)
+[click there 链接🔗](https://github.com/pluckypioneer/MY_PYTHON_STUDY_NOTE)
 
 ## 大一下
 
 ### 面向对象程序设计
 
 ### 线性代数
+
+[同济版线性代数链接🔗 click here](https://pan.baidu.com/s/1zA7lVFfMkb_M4q0w3D693Q?pwd=kae3)
+提取码:kae3
+
 
 ### 电路分析基础
 
