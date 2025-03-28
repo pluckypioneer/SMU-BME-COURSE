@@ -50,6 +50,12 @@ Guidance to courses for SMU BME study.
 
 ### 机械制图
 
+[机械制图]( https://pan.baidu.com/s/1eu9reZlJSiAMgZaQ_ZBZwg?pwd=cpav )  提取码: cpav
+
+[CAD2025下载链接🔗](https://pan.baidu.com/s/1EwsWWrm74sK9kDpS3pabJg?pwd=kijx)   提取码: kijx
+
+推荐使用网站ruancang.net获取最新版CAD、ZWCAD等。
+
 ### Python
 
 python作为一种简单好用的语言，是十分有学习的必要性的，但由于医工专业课程安排，学校连简单的python语法都不教，我强力建议大家在大一的时候就自学python，这里有我整理的一些python学习资料，笔记不完全，但也有一定参考价值。
