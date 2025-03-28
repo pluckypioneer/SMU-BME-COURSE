@@ -20,6 +20,11 @@ Guidance to courses for SMU BME study.
 
 ### 机械制图
 
+### Python
+
+python作为一种简单好用的语言，是十分有学习的必要性的，但由于医工专业课程安排，学校连简单的python语法都不教，我强力建议大家在大一的时候就自学python，这里有我整理的一些python学习资料，笔记不完全，但也有一定参考价值。
+[click there 链接](https://github.com/pluckypioneer/MY_PYTHON_STUDY_NOTE)
+
 ## 大一下
 
 ### 面向对象程序设计
