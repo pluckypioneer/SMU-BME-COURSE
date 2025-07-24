@@ -133,7 +133,7 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 如果要观看b站上的课程，播放量排名靠前的视频有王道计算机考研、青岛大学王卓和浙江大学陈越姥姥，个人认为根据课程的适配程度来看更推荐王卓老师的课。
 
-[数据结构——笔记]🔗(https://github.com/pluckypioneer/My-Data-Structure-STUDY)
+[数据结构——笔记🔗](https://github.com/pluckypioneer/My-Data-Structure-STUDY)
 
 笔记是我自己记的，老师的ppt和爱课上的内容作为主要的参考，此外有一些补充内容，如有问题在issue中及时提出反馈。
 
