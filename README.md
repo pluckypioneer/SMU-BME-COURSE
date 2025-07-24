@@ -133,15 +133,40 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 如果要观看b站上的课程，播放量排名靠前的视频有王道计算机考研、青岛大学王卓和浙江大学陈越姥姥，个人认为根据课程的适配程度来看更推荐王卓老师的课。
 
-[数据结构——笔记](https://github.com/pluckypioneer/My-Data-Structure-STUDY)
+[数据结构——笔记]🔗(https://github.com/pluckypioneer/My-Data-Structure-STUDY)
 
 笔记是我自己记的，老师的ppt和爱课上的内容作为主要的参考，此外有一些补充内容，如有问题在issue中及时提出反馈。
 
 ### 数字电子技术
 
+时间充足的话推荐B站“这个xiaomo不太冷”的数电课程，[【数电】数电知识点复习与习题讲解 课程链接🔗 ](https://www.bilibili.com/video/BV1kZ4y1w7dy/?share_source=copy_web&vd_source=8b4f67a164bbbc7f5844a8f4dcdec11f)
+
+我从up那里支付了课件的费用，他的课件是自觉付款的原则[课程对应的PPT]( https://pan.baidu.com/s/5DSQlO6HADmVLU5JZx6HJgw)
+
+如果时间紧张，我强烈推荐看一下[【数字电子技术基础期末复习速成(0基础逆袭90+）】 ](https://www.bilibili.com/video/BV1qt4y1J7L6/?share_source=copy_web&vd_source=8b4f67a164bbbc7f5844a8f4dcdec11f)这个视频，再搭配课本和课件学习。
+
+[数电课件等资料 链接🔗：](https://pan.baidu.com/s/50JbTNSM_wD23Vp9bglFcbA)
+
 ### 信号与系统
 
+能认真听课就认真听课，想速成至少留下一周时间，最好有十天以上的时间速成。
+
+有时间好好学就跟着B站的浙大胡浩基老师的课[【2022浙江大学信号与系统（含配套课件和代码） - 胡浩基老师】]( https://www.bilibili.com/video/BV1g94y1Q76G/?share_source=copy_web&vd_source=8b4f67a164bbbc7f5844a8f4dcdec11f)。但是，他们的课程安排跟南医的课程安排不一样，所以建议最好还是上课好好听。
+
+爱课上有老师的录播视频，可以跟着学，再搭配课本上的习题学习。
+
+[信号与系统课件、往年真题等资料🔗](https://pan.baidu.com/s/54_TaJhJn_i2kZQgHy4c1qQ)
+
 ### 概率论与数理统计
+
+[概率论与数理统计资料
+链接]( https://pan.baidu.com/s/5_rDXEOwEa68CYR53dzmp-w)
+
+建议看B站框框老师的课学习[【《概率论与数理统计》精讲课程 | 框框老师】]( https://www.bilibili.com/video/BV1194y1f7vr/?share_source=copy_web&vd_source=8b4f67a164bbbc7f5844a8f4dcdec11f)，时间很短总共就三天时间就能看完。
+
+考试之前再看一下框框老师的速成课[【《概率论与数理统计》4小时速成课 | 框框老师（突击课，适合大学数学期末考试、期中考试、补考、重修、专升本，考试不挂科）】]( https://www.bilibili.com/video/BV168411Z7pf/?share_source=copy_web&vd_source=8b4f67a164bbbc7f5844a8f4dcdec11f)
+
+看完课之后把课本上的习题全部刷一遍，再看一下老师习题课的题。
 
 ### 生理学
 
