@@ -145,7 +145,7 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 如果时间紧张，我强烈推荐看一下[【数字电子技术基础期末复习速成(0基础逆袭90+）】 ](https://www.bilibili.com/video/BV1qt4y1J7L6/?share_source=copy_web&vd_source=8b4f67a164bbbc7f5844a8f4dcdec11f)这个视频，再搭配课本和课件学习。
 
-[数电课件等资料 链接🔗：](https://pan.baidu.com/s/50JbTNSM_wD23Vp9bglFcbA)
+[数电课件等资料 链接🔗](https://pan.baidu.com/s/50JbTNSM_wD23Vp9bglFcbA)
 
 ### 信号与系统
 
