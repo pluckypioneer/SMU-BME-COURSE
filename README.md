@@ -12,6 +12,8 @@
 
 Guidance to courses for [SMU BME](https://portal.smu.edu.cn/swyxgcxy/) study.
 
+> tag: #南方医科大学 #生物医学工程 #Biomedicial engineering #BME
+
 ### 声明Declaration
 
 #### part 1
