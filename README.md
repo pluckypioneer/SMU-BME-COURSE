@@ -185,4 +185,4 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 [![Star History Chart](https://api.star-history.com/svg?repos=pluckypioneer/SMU-BME-COURSE&type=Date)](https://www.star-history.com/#pluckypioneer/SMU-BME-COURSE&Date)
 
 ## License
-本项目遵循MIT Lisence，允许使用者做任何事情，但本项目作者仍拥有所有权，且本项目作者无须承担项目使用产生的风险。[LICENSE](https://github.com/pluckypioneer/SMU-BME-COURSE/blob/main/LICENSE)
+本项目遵循MIT Lisence，允许使用者做任何事情，但本项目作者仍拥有所有权，且本项目作者无须承担项目使用产生的风险，使用者在不侵犯原作者权益基础上，其任何行为均与原作者没有关系。[LICENSE](https://github.com/pluckypioneer/SMU-BME-COURSE/blob/main/LICENSE)
