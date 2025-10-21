@@ -8,7 +8,7 @@
 
 ### 介绍Introduction
 
-这是一个用来储存[南方医科大学](https://www.smu.edu.cn/)生物医学工程专业有关课程资料的仓库，包含电子书、笔记、课件、推荐课程、学习路径等。如果您觉得本项目有帮助到你的话，**麻烦您给一个star！**
+这是一个用来储存[南方医科大学](https://www.smu.edu.cn/)生物医学工程专业有关课程资料的仓库，包含电子书、笔记、课件、推荐课程、学习路径等。如果您觉得本项目有帮助到你的话，**麻烦您给一个star！✨**
 
 Guidance to courses for [SMU BME](https://portal.smu.edu.cn/swyxgcxy/) study.
 
@@ -177,6 +177,8 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 ## 大三上
 
 ### 生物医学信号处理与分析
+
+[Repo LINK: Please click here!](https://github.com/pluckypioneer/Biomedical-signal-processing-and-analysis-STUDY)
 
 ### 单片机原理与应用
 
