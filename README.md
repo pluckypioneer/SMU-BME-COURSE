@@ -178,19 +178,64 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 ### 生物医学信号处理与分析
 
+个人笔记：
+
 [Repo LINK: Please click here!](https://github.com/pluckypioneer/Biomedical-signal-processing-and-analysis-STUDY)
+
+通过网盘分享的文件：生物医学信号处理与分析(含课件、笔记（同上仓库）、各类相关资料等)
+[链接: ](https://pan.baidu.com/s/1BAfUEPYSzmUn63bH-3WYDw?pwd=a7w5) 提取码: a7w5 
+
 
 ### 单片机原理与应用
 
+
+
 ### 医用传感器
+
+通过网盘分享的文件：医用传感器(含课件、实验手册、实验报告等)
+
+[链接](https://pan.baidu.com/s/1kKcprwOxe_HR8MorUEwQ8g?pwd=d66j) 提取码: d66j 
 
 ### 嵌入式综合系统设计
 
-### 人工智能导论
+相关学习资料老师上课都会给，方老师教的很好，认真听讲即可。
+
+可按需学习b站江协科技或尚硅谷的相关课程。
+
+### 医学人工智能导论
+
+通过网盘分享的文件：人工智能导论(含课件、笔记、往年习题等，笔记为**医学人工智能导论.md**)
+
+[链接](https://pan.baidu.com/s/17b0kwuS1JFC2WUmLhGNtPg?pwd=prvb)提取码: prvb 
 
 ### 医疗移动应用开发
 
+课程简单的介绍了web开发的基础知识，对前后端都有涉及，老师鼓励支持使用vibe coding，内容都较为容易，认真对待即可。
+
+最后的大作业建议可选择一老师给的选题作为备选方案，自己从github上找一个合适的项目更好，我就是从github上找了一个后端的小项目，并为其搭建了一个前端进行了展示。
+
+网盘中有一些相关的资料，没必要全看，按需参考即可。
+
+通过网盘分享的文件：医疗移动应用开发
+[链接](https://pan.baidu.com/s/1LW10HDmRQWM4dpg2WaFbSw?pwd=2qck) 提取码: 2qck 
+
 ### 医学电子测量与技术
+
+通过网盘分享的文件：医学电子测量与技术(含课件、笔记等，笔记为**医学电子测量与技术.md**)
+
+[链接](https://pan.baidu.com/s/1qXTsbbIml0TKjfh_V-TCbw?pwd=3y6e) 提取码: 3y6e 
+
+## 大三下
+
+### 医学电子仪器原理与设计
+
+### 医学信号处理与分析
+
+### 系统仿真与综合设计
+
+### 临床医学信息建模分析与实践
+
+### 信息论与编码
 
 ## 可能会有用的资源
 
