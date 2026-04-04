@@ -188,6 +188,8 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 ### 单片机原理与应用
 
+单片机，看老师课件即可
+链接:[link](https://pan.baidu.com/s/1ZPFXGhqbJRADEZ6uwiMKEA?pwd=fxdh)提取码: fxdh 
 
 
 ### 医用传感器
