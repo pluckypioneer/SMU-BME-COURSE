@@ -30,7 +30,7 @@ Guidance to courses for [SMU BME](https://portal.smu.edu.cn/swyxgcxy/) study.
 
 #### part 4
 
-本项目欢迎热心人士一起建设！由于本校存在专业分流，部分课程我也没有学习，因此我收集的资料会有所欠缺，所以如果说您有什么资料分享，欢迎您的加入！**大力鼓励和支持提交分支，分享你的资料！**
+本项目欢迎热心人士一起建设！由于本校存在专业分流，部分课程我也没有学习，因此我收集的资料会有所欠缺，所以如果说您有什么资料分享，欢迎您的加入！**大力鼓励和支持提交PR，分享你的资料！**
 
 ---
 
@@ -183,20 +183,20 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 [Repo LINK: Please click here!](https://github.com/pluckypioneer/Biomedical-signal-processing-and-analysis-STUDY)
 
 通过网盘分享的文件：生物医学信号处理与分析(含课件、笔记（同上仓库）、各类相关资料等)
-[链接: ](https://pan.baidu.com/s/1BAfUEPYSzmUn63bH-3WYDw?pwd=a7w5) 提取码: a7w5 
+[链接: Click here](https://pan.baidu.com/s/1BAfUEPYSzmUn63bH-3WYDw?pwd=a7w5) 提取码: a7w5 
 
 
 ### 单片机原理与应用
 
 单片机，看老师课件即可。（疑似我们这级之后不开这门课了。）
-链接:[link](https://pan.baidu.com/s/1ZPFXGhqbJRADEZ6uwiMKEA?pwd=fxdh)提取码: fxdh 
+链接:[Click this link](https://pan.baidu.com/s/1ZPFXGhqbJRADEZ6uwiMKEA?pwd=fxdh)提取码: fxdh 
 
 
 ### 医用传感器
 
 通过网盘分享的文件：医用传感器(含课件、实验手册、实验报告等)
 
-[链接](https://pan.baidu.com/s/1kKcprwOxe_HR8MorUEwQ8g?pwd=d66j) 提取码: d66j 
+[链接: Click here](https://pan.baidu.com/s/1kKcprwOxe_HR8MorUEwQ8g?pwd=d66j) 提取码: d66j 
 
 ### 嵌入式综合系统设计
 
@@ -208,7 +208,7 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 通过网盘分享的文件：人工智能导论(含课件、笔记、往年习题等，笔记为**医学人工智能导论.md**)
 
-[链接](https://pan.baidu.com/s/17b0kwuS1JFC2WUmLhGNtPg?pwd=prvb)提取码: prvb 
+[链接: Click here](https://pan.baidu.com/s/17b0kwuS1JFC2WUmLhGNtPg?pwd=prvb)提取码: prvb 
 
 ### 医疗移动应用开发
 
@@ -219,13 +219,13 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 网盘中有一些相关的资料，没必要全看，按需参考即可。
 
 通过网盘分享的文件：医疗移动应用开发
-[链接](https://pan.baidu.com/s/1LW10HDmRQWM4dpg2WaFbSw?pwd=2qck) 提取码: 2qck 
+[链接: Click here](https://pan.baidu.com/s/1LW10HDmRQWM4dpg2WaFbSw?pwd=2qck) 提取码: 2qck 
 
 ### 医学电子测量与技术
 
 通过网盘分享的文件：医学电子测量与技术(含课件、笔记等，笔记为**医学电子测量与技术.md**)
 
-[链接](https://pan.baidu.com/s/1qXTsbbIml0TKjfh_V-TCbw?pwd=3y6e) 提取码: 3y6e 
+[链接:Click here](https://pan.baidu.com/s/1qXTsbbIml0TKjfh_V-TCbw?pwd=3y6e) 提取码: 3y6e 
 
 ## 大三下
 
