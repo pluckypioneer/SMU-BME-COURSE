@@ -276,5 +276,19 @@ Matlab课程笔记及课件（含进阶学习推荐资料）:
 
 [Embedded-Software-Learn click here🔗](https://github.com/0voice/EmbeddedSoftwareLearn)
 
+[Xbotics-Embodied-Guide](https://github.com/Xbotics-Embodied-AI-club/Xbotics-Embodied-Guide)
+
+[Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)
+
+[Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med)
+
+[教你构建自己的agent](https://github.com/datawhalechina/hello-agents)
+
+[Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+
+[awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
+
+**因为不想暴露我所有的关注内容，所以在这个公开的账号上我没有任何的star，所以一些有用的资料我会陆续展示在这里。**
+
 ## License
 本项目遵循MIT Lisence，允许使用者做任何事情，但本项目作者仍拥有所有权，且本项目作者无须承担项目使用产生的风险，使用者在不侵犯原作者权益基础上，其任何行为均与原作者没有关系。[LICENSE](https://github.com/pluckypioneer/SMU-BME-COURSE/blob/main/LICENSE)
